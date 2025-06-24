@@ -1,0 +1,23 @@
+h1
+{
+    text-align: center;
+    color: aqua;
+}
+
+.tamaño
+{
+    font-size: 128px;
+    text-decoration: underline;
+}
+
+.personalizado
+{
+    text-align: justify;
+    font-size: 32px;
+}
+
+h2
+{
+    text-decoration: underline;
+    font-size: 64px;
+}
